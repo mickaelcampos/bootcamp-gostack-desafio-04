@@ -1,0 +1,23 @@
+.content {
+  margin: 0 auto;
+  padding: 0 30px;
+  color: #fff;
+}
+
+header.main-header {
+  background: rgba(27, 94, 170, 0.6);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+header.main-header h1.logo {
+  font-family: 'Klavika bold bold';
+}
+
+header.main-header div.side {
+  display: flex;
+  align-items: center;
+  font-size: 10px;
+}

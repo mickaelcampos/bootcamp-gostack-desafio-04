@@ -1,0 +1,29 @@
+div.post {
+  background: rgb(255, 255, 255);
+  padding: 0 10px 10px 10px;
+  border-radius: 2px;
+
+}
+
+div.post-header {
+  display: flex;
+  margin-top: 15px;
+}
+
+div.info {
+
+  display: flex;
+  flex-direction: column;
+}
+
+div.post .info p.date {
+  color: brown;
+}
+
+div.post p.data-content {
+  padding: 10px;
+  margin-top: 10px;
+  border-bottom: 1px solid rgb(168, 168, 168);
+}
+
+

@@ -1,0 +1,16 @@
+div.comment {
+  display: flex;
+  margin-top: 10px;
+
+
+}
+
+div.comment-ballon {
+  background: rgb(160, 159, 159);
+  border-radius: 16px;
+  margin-top: 10px;
+}
+
+div.comment-ballon div.comment-content {
+  padding: 0 10px;
+}
